@@ -6,8 +6,10 @@
 <h1 align="center">Hi 👋, I'm TUĞBA NUR DEMİR</h1>
 <h3 align="center">A passionate Computer Engineer</h3>
 
-- 🔭 I’m currently working on **DevOps and C#**
 
+
+- 🔭 I’m currently working on **DevOps and C#**
+- 📫 How to reach me **tugbanmdr@outlook.com**
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/tugbanurdemir" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="tugbanurdemir" height="30" width="40" /></a>
