@@ -1,4 +1,8 @@
 
+<div align="center">
+  <img src="https://www.brandpartner.com.tr/Upload/Buyuk/492-web-yazilimi-dilleri-ve-onemi.jpg" alt="MasterHead">
+</div>
+
 <h1 align="center">Hi 👋, I'm TUĞBA NUR DEMİR</h1>
 <h3 align="center">A passionate Computer Engineer</h3>
 
