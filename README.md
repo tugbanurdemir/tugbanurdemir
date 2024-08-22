@@ -1,4 +1,4 @@
-[![MasterHead(https://yazilimgelistirici.subu.edu.tr/storage/61/yazilim-dilleri-ve-kullanim-alanlari.jpg)
+
 <h1 align="center">Hi 👋, I'm TUĞBA NUR DEMİR</h1>
 <h3 align="center">A passionate Computer Engineer</h3>
 
